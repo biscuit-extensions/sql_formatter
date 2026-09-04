@@ -1,0 +1,7 @@
+[extension]
+id = "sql_formatter"
+name = "Sql Formatter"
+version = "0.1.0"
+description = "Sql Formatter extension for Biscuit"
+author = "biscuit-extensions"
+icon = "icon.png"
